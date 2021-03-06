@@ -1,0 +1,8 @@
+name: Duels
+version: ${project.version}
+main: me.dkflab.duels.Duels
+authors: [dkflab]
+commands:
+  duels:
+    aliases: [duel, d]
+    usage: /duels
